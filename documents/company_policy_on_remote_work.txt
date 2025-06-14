@@ -1,0 +1,7 @@
+Company Policy: Remote Work Guidelines
+Effective Date: January 1, 2025
+
+1. Eligibility: All full-time employees with manager approval are eligible for a hybrid remote work schedule. Employees must have been with the company for at least 6 months.
+2. Schedule: Employees are expected to be in the office at least two days a week, typically Tuesday and Thursday, for collaborative meetings. The remaining three days can be remote.
+3. Equipment: The company will provide a standard laptop, monitor, keyboard, and mouse for home use. Any specialized equipment must be approved by IT and the department head. The employee is responsible for a stable internet connection.
+4. Communication: All employees are expected to be available on Slack and email during standard working hours (9 AM - 5 PM local time).
